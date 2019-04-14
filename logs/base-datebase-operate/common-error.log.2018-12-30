@@ -1,0 +1,37 @@
+2018-12-29 16:47:19,883 ERROR 37340 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 37340
+hostname: DESKTOP-M4HQFS8
+
+2018-12-29 21:39:53,955 ERROR 26272 nodejs.ClusterClientNoResponseError: client no response in 79260ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\study\egg\base-datebase-operate\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 26272
+hostname: DESKTOP-M4HQFS8
+
+2018-12-29 21:42:48,883 ERROR 14716 nodejs.ECONNABORTEDError: write ECONNABORTED (address: 127.0.0.1:1569)
+    at afterWriteDispatched (internal/stream_base_commons.js:78:25)
+    at writeGeneric (internal/stream_base_commons.js:73:3)
+    at Socket._writeGeneric (net.js:713:5)
+    at Socket._write (net.js:725:8)
+    at doWrite (_stream_writable.js:410:12)
+    at writeOrBuffer (_stream_writable.js:394:5)
+    at Socket.Writable.write (_stream_writable.js:294:11)
+    at Follower.sendHeartBeat (E:\study\egg\base-datebase-operate\node_modules\tcp-base\lib\base.js:105:18)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (E:\study\egg\base-datebase-operate\node_modules\tcp-base\lib\base.js:437:12)
+    at ontimeout (timers.js:436:11)
+errno: "ECONNABORTED"
+code: "ECONNABORTED"
+syscall: "write"
+name: "ECONNABORTEDError"
+pid: 14716
+hostname: DESKTOP-M4HQFS8
+

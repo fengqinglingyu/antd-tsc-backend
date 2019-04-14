@@ -1,0 +1,96 @@
+2019-04-14 18:29:38,605 WARN 7888 [-/127.0.0.1/-/70ms PATCH /update] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-04-14 18:29:38,616 WARN 7888 [-/127.0.0.1/-/75ms PATCH /update] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (E:\study\egg\base-datebase-operate\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\app\extend\context.js:157:17)
+    at csrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at session (E:\study\egg\base-datebase-operate\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (E:\study\egg\base-datebase-operate\node_modules\koa-override\index.js:13:70)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 7888
+hostname: DESKTOP-M4HQFS8
+
+2019-04-14 18:30:53,670 WARN 7888 [-/127.0.0.1/-/0ms PATCH /update] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-04-14 18:30:53,671 WARN 7888 [-/127.0.0.1/-/1ms PATCH /update] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (E:\study\egg\base-datebase-operate\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\app\extend\context.js:157:17)
+    at csrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at session (E:\study\egg\base-datebase-operate\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (E:\study\egg\base-datebase-operate\node_modules\koa-override\index.js:13:70)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 7888
+hostname: DESKTOP-M4HQFS8
+
+2019-04-14 18:33:23,697 WARN 7888 [-/127.0.0.1/-/0ms PATCH /update] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-04-14 18:33:23,698 WARN 7888 [-/127.0.0.1/-/1ms PATCH /update] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (E:\study\egg\base-datebase-operate\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\app\extend\context.js:157:17)
+    at csrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at session (E:\study\egg\base-datebase-operate\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (E:\study\egg\base-datebase-operate\node_modules\koa-override\index.js:13:70)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 7888
+hostname: DESKTOP-M4HQFS8
+
+2019-04-14 18:45:00,069 WARN 7888 [-/127.0.0.1/-/0ms PATCH /update] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-04-14 18:45:00,071 WARN 7888 [-/127.0.0.1/-/1ms PATCH /update] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (E:\study\egg\base-datebase-operate\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\app\extend\context.js:157:17)
+    at csrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at session (E:\study\egg\base-datebase-operate\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (E:\study\egg\base-datebase-operate\node_modules\koa-override\index.js:13:70)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 7888
+hostname: DESKTOP-M4HQFS8
+
+2019-04-14 18:57:58,173 WARN 7888 [-/127.0.0.1/-/0ms PATCH /update] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-04-14 18:57:58,175 WARN 7888 [-/127.0.0.1/-/1ms PATCH /update] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (E:\study\egg\base-datebase-operate\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\app\extend\context.js:157:17)
+    at csrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at session (E:\study\egg\base-datebase-operate\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (E:\study\egg\base-datebase-operate\node_modules\koa-override\index.js:13:70)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 7888
+hostname: DESKTOP-M4HQFS8
+
+2019-04-14 19:00:10,249 WARN 7888 [-/127.0.0.1/-/0ms PATCH /update] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2019-04-14 19:00:10,250 WARN 7888 [-/127.0.0.1/-/1ms PATCH /update] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (E:\study\egg\base-datebase-operate\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\app\extend\context.js:157:17)
+    at csrf (E:\study\egg\base-datebase-operate\node_modules\egg-security\lib\middlewares\csrf.js:31:9)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:34:12
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at session (E:\study\egg\base-datebase-operate\node_modules\koa-session\index.js:41:13)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (E:\study\egg\base-datebase-operate\node_modules\koa-override\index.js:13:70)
+    at dispatch (E:\study\egg\base-datebase-operate\node_modules\koa-compose\index.js:42:32)
+message: "invalid csrf token"
+pid: 7888
+hostname: DESKTOP-M4HQFS8
+

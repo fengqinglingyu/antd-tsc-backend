@@ -1,0 +1,310 @@
+{
+  "keys": "E:\\study\\egg\\base-datebase-operate\\config\\config.default.ts",
+  "middleware": "E:\\study\\egg\\base-datebase-operate\\config\\config.default.ts",
+  "mysql": {
+    "client": {
+      "host": "E:\\study\\egg\\base-datebase-operate\\config\\config.default.ts",
+      "port": "E:\\study\\egg\\base-datebase-operate\\config\\config.default.ts",
+      "user": "E:\\study\\egg\\base-datebase-operate\\config\\config.default.ts",
+      "password": "E:\\study\\egg\\base-datebase-operate\\config\\config.default.ts",
+      "database": "E:\\study\\egg\\base-datebase-operate\\config\\config.default.ts"
+    },
+    "default": {
+      "database": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-mysql\\config\\config.default.js",
+      "connectionLimit": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-mysql\\config\\config.default.js"
+    },
+    "app": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-mysql\\config\\config.default.js",
+    "agent": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-mysql\\config\\config.default.js"
+  },
+  "sourceUrl": "E:\\study\\egg\\base-datebase-operate\\config\\config.default.ts",
+  "session": {
+    "maxAge": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "name": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "version": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "description": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "private": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "egg": {
+      "typescript": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "stop": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "dev": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "debug": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "test": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "cov": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "tsc": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "ci": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "lint": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "clean": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "egg-mysql": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "@types/mocha": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "@types/node": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "@types/supertest": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "autod": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "egg-ts-helper": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "tslib": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "tslint": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "typescript": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "url": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    },
+    "eslintIgnore": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "author": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "license": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+  },
+  "baseDir": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "strict": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "depth": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "env": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "level": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "logging": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "port": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\study\\egg\\base-datebase-operate\\node_modules\\egg\\config\\config.default.js"
+}

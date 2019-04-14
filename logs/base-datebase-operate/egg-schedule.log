@@ -1,0 +1,40 @@
+2019-04-14 11:42:22,066 INFO 12388 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 11:42:22,066 INFO 12388 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 11:42:24,030 INFO 2844 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 44255972ms at 2019-04-15 00:00:00.002
+2019-04-14 11:42:24,030 INFO 2844 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44256970ms at 2019-04-15 00:00:01.000
+2019-04-14 11:48:06,092 INFO 11360 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 11:48:06,092 INFO 11360 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 11:48:08,161 INFO 6132 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 43911841ms at 2019-04-15 00:00:00.002
+2019-04-14 11:48:08,162 INFO 6132 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 43912838ms at 2019-04-15 00:00:01.000
+2019-04-14 11:50:11,194 INFO 7320 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 11:50:11,194 INFO 7320 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 11:54:01,663 INFO 12476 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 11:54:01,663 INFO 12476 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 13:30:59,982 INFO 11868 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 13:30:59,982 INFO 11868 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 13:31:01,358 INFO 10212 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 37738646ms at 2019-04-15 00:00:00.003
+2019-04-14 13:31:01,358 INFO 10212 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37739642ms at 2019-04-15 00:00:01.000
+2019-04-14 14:47:42,100 INFO 15912 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 14:47:42,100 INFO 15912 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 14:48:20,703 INFO 4344 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 14:48:20,703 INFO 4344 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 15:16:05,455 INFO 1856 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 31434547ms at 2019-04-15 00:00:00.002
+2019-04-14 15:16:05,456 INFO 1856 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 31435545ms at 2019-04-15 00:00:01.001
+2019-04-14 15:16:05,250 INFO 7888 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 15:16:05,250 INFO 7888 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 18:59:59,828 INFO 18716 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 18:59:59,828 INFO 18716 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 19:00:00,522 INFO 2120 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17999480ms at 2019-04-15 00:00:00.002
+2019-04-14 19:00:00,523 INFO 2120 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 18000478ms at 2019-04-15 00:00:01.001
+2019-04-14 19:05:29,399 INFO 2908 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 19:05:29,399 INFO 2908 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 19:05:30,220 INFO 5816 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 17669782ms at 2019-04-15 00:00:00.002
+2019-04-14 19:05:30,221 INFO 5816 [Timer] E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 17670780ms at 2019-04-15 00:00:01.001
+2019-04-14 19:08:35,022 INFO 17072 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 19:08:35,022 INFO 17072 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 19:10:51,266 INFO 11984 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 19:10:51,266 INFO 11984 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 19:13:30,005 INFO 16624 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 19:13:30,006 INFO 16624 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-04-14 19:13:35,445 INFO 7020 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-04-14 19:13:35,445 INFO 7020 [egg-schedule]: register schedule E:\study\egg\base-datebase-operate\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
