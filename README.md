@@ -1,6 +1,6 @@
-# A TypeScript Demo Using MySQL
+# A TypeScript Demo Using Egg && MySQL
 
-showcase using typescript && egg
+showcase using typescript && egg && MySQL
 
 ## QuickStart
 
