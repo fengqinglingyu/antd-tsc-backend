@@ -1,6 +1,6 @@
-# hackernews-async-ts
+# A TypeScript Demo Using MySQL
 
-[Hacker News](https://news.ycombinator.com/) showcase using typescript && egg
+showcase using typescript && egg
 
 ## QuickStart
 
